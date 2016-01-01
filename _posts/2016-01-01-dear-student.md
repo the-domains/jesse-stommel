@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is where the conversation starts. By listening seriously to the voices of students and recognizing that students can be drivers of the conversation about the state of education.
-datePublished: '2016-01-01T00:02:04.876Z'
-dateModified: '2016-01-01T00:01:08.749Z'
+datePublished: '2016-01-01T00:08:28.843Z'
+dateModified: '2016-01-01T00:07:39.397Z'
 title: Dear Student
 author: []
 authors: []

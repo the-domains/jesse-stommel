@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jesse Stommel]]></title>
         <description><![CDATA[Jesse Stommel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jesse-stommel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 00:15:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 00:39:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jesse-stommel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/799fcbf7-b39b-4591-9563-7cf45dc051d7.jpg">]]></description>
+            <link>https://thegrid.ai/jesse-stommel/da94ec19-40ed-4f20-a031-c5d2024e5a9b/index.html</link>
+            <guid isPermaLink="false">da94ec19-40ed-4f20-a031-c5d2024e5a9b</guid>
+            <pubDate>Fri, 01 Jan 2016 00:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leaving Wisconsin]]></title>
-            <description><![CDATA[<article><h1>Leaving Wisconsin</h1><p>Increasingly, I think the work of education is activism not teaching.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f62409ac722a587b961ae3e32a4999bd156cf7.jpg"></article>]]></description>
-            <link>undefinedleaving-wisconsin/index.html</link>
+            <description><![CDATA[<article><h1>Leaving Wisconsin</h1><p>Increasingly, I think the work of education is activism not teaching.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b532055cf47ca9140cddbcd92d30841e410339e9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jesse-stommel/leaving-wisconsin/index.html</link>
             <guid isPermaLink="false">321953da-e8df-49c1-88d3-d333345b6fed</guid>
             <pubDate>Fri, 01 Jan 2016 00:14:59 GMT</pubDate>
         </item>

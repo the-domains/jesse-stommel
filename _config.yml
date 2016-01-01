@@ -1,6 +1,6 @@
 name: Jesse Stommel
 favicon: null
-layout_spectrum: 0.25048
+layout_spectrum: 0.49433
 typography_spectrum: 0.69578
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#65b4ea'
     - '#cccccc'
     - '#777777'
-  brandStrength: 0.4375
-  lightness: 0.3125
+  brandStrength: 0
+  lightness: 0.75
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []

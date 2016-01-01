@@ -1,7 +1,7 @@
 name: Jesse Stommel
 favicon: null
-layout_spectrum: 0.7299817169550806
-typography_spectrum: 0.0556535548530519
+layout_spectrum: 0.25048
+typography_spectrum: 0.69578
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.07412895327433944
-  lightness: 0.541803500847891
-  saturation: 0.2192073322366923
-  rhythmicContrast: 0.45570490160025656
+    - '#222222'
+    - '#2695e1'
+    - '#65b4ea'
+    - '#cccccc'
+    - '#777777'
+  brandStrength: 0.4375
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
